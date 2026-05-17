@@ -44,3 +44,6 @@ form.addEventListener('submit', event => {
     message: '',
   };
 });
+
+
+// ======================== 1-gallery.js ========================
